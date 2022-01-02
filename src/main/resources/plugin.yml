@@ -1,0 +1,10 @@
+name: EndRace
+version: '${project.version}'
+main: me.shreyasayyengar.endrace.EndRacePlugin
+api-version: 1.17
+prefix: EndRace
+authors: [ ShreyasAyyengar ]
+description: Keeps track of the first player to get to the end!
+
+commands:
+  endrace:
